@@ -1,0 +1,13 @@
+{
+    "python.unitTest.unittestArgs": [
+        "-v",
+        "-s",
+        "./bowling",
+        "-p",
+        "*test.py"
+    ],
+    "python.unitTest.pyTestEnabled": false,
+    "python.unitTest.nosetestsEnabled": false,
+    "python.unitTest.unittestEnabled": true,
+    "git.ignoreLimitWarning": true
+}
